@@ -62,8 +62,3 @@
   </span>
 </p>
 
-  <!-- Credits -->
-------
-Credit: [dante-barreda](https://github.com/dante-barreda)
-
-Last Edited on: 25/07/2024
