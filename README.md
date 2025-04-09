@@ -16,7 +16,7 @@
    🛠️ Formación en análisis y desarrollo de software.
 +  ✔️ Responsable, autodidacta y con muchas ganas de aprender.
 #  👨‍💻 Desarrollador web FullStack.
--  🚀 Apasionado por crear y mejorar aplicaciones web.
++  🚀 Apasionado por crear y mejorar aplicaciones web.
 !  ✨ Creo firmemente que si puedes imaginarlo, puedes programarlo.
 @@ 💻 Aprendiendo y resolviendo problemas @@
 ```
